@@ -20,7 +20,23 @@
 4. Todoist
 5. Shift
 6. Arc / Chrome.
+7. Raycast.
 
-## Other:
+### Raycast setup: 
+#### key extenssions:
+1. Linear
+2. TODOist
+3. GTranslate
+4. Timers
+
+#### Key bindings:
+1. Linear - create issue: CMD CTRL OPTN =
+2. Search emoji - SHFT CMD OPTN E + SHFT CMD OPTN W
+3. Create task - TODOist - SHFT CMD OPTN T
+4. Search Issues - Linear - CNTRL OPTN CMD - (minus)
+5. Upcoming tasks TODOist - SFHT CMD OPTN 1
+
+
+### Other:
 1. Sign in whatsapp web.
 2. 

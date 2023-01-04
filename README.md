@@ -18,6 +18,8 @@ New computer setup flow:
 
 * Download rectangle and enable.
 
+* Download CleanShot.
+
 * ### Raycast setup: 
 * Download Raycast.
 * #### key extenssions:

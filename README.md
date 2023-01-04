@@ -57,8 +57,10 @@ New computer setup flow:
 10. https://www.youtube.com/watch?v=CF1tMjvHDRA&ab_channel=JoseanMartinez
 
 
-11. ### VSCode:
-12. Just sync extenssions. Sign in with github.
+### VSCode:
+* Sync extenssions. Sign in with github.
+* Download Git for laptop through the Gitlens extenssion CTA.
+
 
 
 13. ### Download and change theme:
@@ -67,3 +69,7 @@ New computer setup flow:
 16. Descript
 17. Todoist
 18. Shift
+
+
+## IMPORTANT before killing a laptop:
+* Export current stuff in Excalidraw.   

@@ -1,4 +1,19 @@
-# dotfiles
+# dotfiles and settings
+
+## 2023:
+
+New computer setup flow:
+* Connect logi mouse (bluetooth).
+* Change tracking speed (tackpad and mouse).
+* Automatically hide mac's dock.
+* Use Safari to download Arc. 
+* Set Arc as default browser.
+* Log in to this page on github see if update is needed.
+* Download rectangle and enable.
+* Download Raycast.
+* Set Raycast instead of Spotlight.
+* Download Shift and sign in to all accounts.
+* 
 
 ## 2022:
 

@@ -3,8 +3,10 @@
 ## 2023:
 
 New computer setup flow:
+* ### Mac change input source keybindings to OPTN+,
 * Connect logi mouse (bluetooth).
 * Change tracking speed (tackpad and mouse).
+* Cahnge 
 * Automatically hide mac's dock.
 * Use Safari to download Arc. 
 * Set Arc as default browser.

@@ -9,6 +9,7 @@ New computer setup flow:
 * Change tracking speed (tackpad and mouse).
 * Automatically hide mac's dock.
 * Configure Hotcorners - top left show desktop.
+* Install brew (will take a long time).
 
 
 * ### Arc
@@ -60,8 +61,11 @@ New computer setup flow:
 
 ### VSCode:
 * Sync extenssions. Sign in with github.
+* Use CMD SHFT P and search "path" to install `code` into `PATH`.
+* Install and give permissions to VSCode project manager in Raycast.
 * Download Git for laptop through the Gitlens extenssion CTA.
 
+* Install Vim through brew.
 
 
 13. ### Download and change theme:

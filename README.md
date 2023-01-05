@@ -16,6 +16,7 @@ New computer setup flow:
 * Use Safari to download Arc. 
 * Set Arc as default browser.
 * Change settings for toggle sidebar to CMD+B.Move to split view other tab CMD+]
+* Disable CMD OPTN N to open mini Arc (conflicts with new folder in VSCode).
 
 
 * Download rectangle and enable.

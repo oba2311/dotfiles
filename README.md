@@ -8,6 +8,7 @@ New computer setup flow:
 * Connect logi mouse (bluetooth).
 * Change tracking speed (tackpad and mouse).
 * Automatically hide mac's dock.
+* Configure Hotcorners - top left show desktop.
 
 
 * ### Arc

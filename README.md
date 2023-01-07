@@ -56,8 +56,13 @@ New computer setup flow:
 
 
 * ### Download iTerm
-9. For setup I just follow: https://www.josean.com/posts/terminal-setup
-10. https://www.youtube.com/watch?v=CF1tMjvHDRA&ab_channel=JoseanMartinez
+* For setup I just follow: https://www.josean.com/posts/terminal-setup
+* Change font size to 18. 
+oh-my-zsh TDLR:
+ * instsall oh my zsh:
+ * `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+ * install powerlevel10k
+ * install autocomplete for zsh and syntax highlighting.
 
 
 ### VSCode:

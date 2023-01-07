@@ -61,6 +61,9 @@ New computer setup flow:
 oh-my-zsh TDLR:
  * instsall oh my zsh:
  * `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+ * Download and use .zshrc file:
+ https://github.com/oba2311/dotfiles/blob/main/.zshrc
+
  * install powerlevel10k
  * install autocomplete for zsh and syntax highlighting.
 

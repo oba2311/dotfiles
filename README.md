@@ -10,6 +10,8 @@ New computer setup flow:
 * Automatically hide mac's dock.
 * Configure Hotcorners - top left show desktop.
 * Install brew (will take a long time).
+* Disable the shortcut CMD SHFT M (by default opens terminal):
+
 
 
 * ### Arc

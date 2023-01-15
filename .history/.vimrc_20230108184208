@@ -19,8 +19,6 @@ set relativenumber
 set colorcolumn=80
 set signcolumn=yes
 set hidden 
-" this one to enable FZF:
-set rtp+=/opt/homebrew/opt/fzf
 highlight Normal 
 
 " Give more spaces to messages:"

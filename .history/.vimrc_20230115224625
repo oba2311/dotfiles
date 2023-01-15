@@ -35,12 +35,11 @@ call plug#begin('~/.vim/plugged')
 Plug 'gruvbox-community/gruvbox'
 Plug 'turbio/bracey.vim'
 Plug 'alvan/vim-closetag'
-Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 
 
 call plug#end()
 
-colorscheme gruvbox
+" colorscheme gruvbox
 highlight Normal guibg=none
 
 

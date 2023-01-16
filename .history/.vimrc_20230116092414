@@ -37,8 +37,7 @@ let g:netrw_keepdir=0
 
 
 call plug#begin('~/.vim/plugged')
-" Plug 'gruvbox-community/gruvbox'
-Plugin morhetz/gruvbox
+Plug 'gruvbox-community/gruvbox'
 Plug 'turbio/bracey.vim'
 Plug 'alvan/vim-closetag'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }

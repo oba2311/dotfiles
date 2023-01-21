@@ -7,7 +7,6 @@ set shiftwidth=4
 set expandtab
 set smartindent
 set nu
-set nowrap
 set noswapfile
 set nobackup
 set undodir=~/.vim/undodir
@@ -19,6 +18,9 @@ set relativenumber
 set colorcolumn=80
 set signcolumn=yes
 set hidden 
+" wraps lines according to screen width, 
+" without break words"
+set wrap linebreak
 " this one to enable FZF:
 set rtp+=/opt/homebrew/opt/fzf
 highlight Normal 

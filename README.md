@@ -93,6 +93,15 @@ New computer setup flow:
 17. Todoist
 18. Shift
 
+### Mouse:
+
+- Change mouse tracking speed to move faster for trackpad.
+- Connect logitech mouse - MX Vertical for better posture.
+- Install logitech options to set up mouse buttons:
+- Faster pointer speed.
+-
+-
+
 ## IMPORTANT before killing a laptop:
 
 - Export current stuff in Excalidraw.

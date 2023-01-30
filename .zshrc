@@ -109,3 +109,7 @@ source $ZSH/oh-my-zsh.sh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+# set sd to CD into a directory found on FZF:
+alias sd='function __sd(){ local dir=$(find . -type d 2>/dev/null | fzf +m); [ -n "$dir" ] && cd "$dir"; }; __sd'
+

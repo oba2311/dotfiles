@@ -74,7 +74,7 @@ New computer setup flow:
 - install plugins this way: https://opensource.com/article/20/2/how-install-vim-plugins
 - FZF https://github.com/junegunn/fzf#using-homebrew
 - https://sourabhbajaj.com/mac-setup/iTerm/fzf.html
--
+
 
 - Use this .vimrc:
 - https://github.com/oba2311/dotfiles/blob/main/.vimrc

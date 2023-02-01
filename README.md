@@ -6,7 +6,6 @@ New computer setup flow:
 
 - ### Mac
 - Change finder's default location to home, and show all files and filename extensions , and show path bar,
-- Change finder's default location to home, and show all files and filename extensions , and show path bar,
 - on sidebar don't show hard drives, and show external disks, and hide tags:
   ![Finder settings](finderSettings.png)
 
@@ -34,6 +33,8 @@ New computer setup flow:
 - Download rectangle and enable.
 
 - Download CleanShot.
+
+- Download alt-tab: `brew install alt-tab`  
 
 - ### Raycast setup:
 - Download Raycast.

@@ -28,6 +28,8 @@ New computer setup flow:
 
 - Download CleanShot.
 
+- Download alt-tab: `brew install alt-tab`  
+
 - ### Raycast setup:
 - Download Raycast.
 - #### key extenssions:

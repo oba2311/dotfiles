@@ -11,6 +11,7 @@ New computer setup flow:
 
 - Completely get rid of the dock:
   ![Dock settings](dockSettings.png)ddd
+
 - Change input source keybindings to OPTN+,
 - Connect logi mouse (bluetooth).
 - Change tracking speed (tackpad and mouse).
@@ -34,7 +35,7 @@ New computer setup flow:
 
 - Download CleanShot.
 
-- Download alt-tab: `brew install alt-tab`  
+- Download alt-tab: `brew install alt-tab`
 
 - ### Raycast setup:
 - Download Raycast.

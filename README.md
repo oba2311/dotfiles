@@ -5,6 +5,12 @@
 New computer setup flow:
 
 - ### Mac
+- Change finder's default location to home, and show all files and filename extensions , and show path bar,
+- on sidebar don't show hard drives, and show external disks, and hide tags:
+  ![Finder settings](finderSettings.png)
+
+- Completely get rid of the dock:
+  ![Dock settings](dockSettings.png)ddd
 - Change input source keybindings to OPTN+,
 - Connect logi mouse (bluetooth).
 - Change tracking speed (tackpad and mouse).
@@ -75,7 +81,6 @@ New computer setup flow:
 - FZF https://github.com/junegunn/fzf#using-homebrew
 - https://sourabhbajaj.com/mac-setup/iTerm/fzf.html
 
-
 - Use this .vimrc:
 - https://github.com/oba2311/dotfiles/blob/main/.vimrc
 
@@ -107,3 +112,6 @@ New computer setup flow:
 ## IMPORTANT before killing a laptop:
 
 - Export current stuff in Excalidraw.
+
+For more info, check out [the blog post](https://www.josean.com/posts/terminal-setup).
+and [this vide:](https://www.youtube.com/watch?v=2_ZbslLnshw).

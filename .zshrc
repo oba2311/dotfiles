@@ -98,6 +98,14 @@ source $ZSH/oh-my-zsh.sh
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
+# leverage fzf to cd into directories with defined func fd:
+fd() {
+  local dir
+  dir=$(find ${1:-.} -path '*/\.*' -prune \
+                  -o -type d -print 2> /dev/null | fzf +m) &&
+  cd "$dir"
+}
+
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
@@ -110,6 +118,8 @@ source $ZSH/oh-my-zsh.sh
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-# set sd to CD into a directory found on FZF:
-alias sd='function __sd(){ local dir=$(find . -type d 2>/dev/null | fzf +m); [ -n "$dir" ] && cd "$dir"; }; __sd'
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+# alias SD to use fzf and CD into a directory:
+alias sd='function __sd(){ local dir; dir=$(find . -type d 2>/dev/null | fzf +m); [ -n "$dir" ] && cd "$dir"; }; __sd'
 

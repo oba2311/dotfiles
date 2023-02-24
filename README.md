@@ -24,6 +24,8 @@ New computer setup flow:
   ![disable the Mac's default shortcut](disableMacTerminalShortcut.png)
 - Enable repeat keys on keydown:
   ~ defaults write -g ApplePressAndHoldEnabled -bool false
+- Change Meun Bar to full date and disable showing Siri or  Spotlight:
+!([https://capture.dropbox.com/hsCmLoXcA08xxtTO](https://capture.dropbox.com/hsCmLoXcA08xxtTO)
 
 - ### Arc
 - Use Safari to download Arc.

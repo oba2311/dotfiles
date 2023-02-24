@@ -25,7 +25,8 @@ New computer setup flow:
 - Enable repeat keys on keydown:
   ~ defaults write -g ApplePressAndHoldEnabled -bool false
 - Change Meun Bar to full date and disable showing Siri or  Spotlight:
-!([https://capture.dropbox.com/hsCmLoXcA08xxtTO](https://capture.dropbox.com/hsCmLoXcA08xxtTO)
+
+!([menu bar settings https://capture.dropbox.com/hsCmLoXcA08xxtTO](https://uc0298fa127a4368c3b74f26909d.previews.dropboxusercontent.com/p/thumb/AB1o5tmDhWsmk2GT4Ca7DIOPs_ZM9QlrSR7lO6Lh0seSYhmrGoUPhBsBNtgfViJAR4udiekqIyDy6YVMkex1Y4CSuv6lVtkTYTTAfDjOw4Q5xbLKVLbUWFTk30I5Ri4PMSXosXwtiKm9m7GP_l_zJiNRYDRMS8G_oZl4hgE5tFr2xk3d12FluCrCbJKmvtL_rGUmujjm3hJUAJ8BP11RJTV7ydm9HfDucsrxr-6ogFLSVtmPqOJN05TcbyYoVo0st9DbbNUmn8SXtHA9c28NBNMQ4sTOBO_JIlEneTiIFA7ms9NqDockXk39XYHAl_sERSeiIluKeC8mpcmZDV_z3VTgiADNnNXa6kFRoKau1WlX5rYfltQdXBXGol0_TNlSqIKSmWlpGHxgEiwP69Fo7U2z/p.png)
 
 - ### Arc
 - Use Safari to download Arc.

@@ -41,6 +41,7 @@ New computer setup flow:
 - Download CleanShot.
 
 - Download alt-tab: `brew install alt-tab`
+    - make sure that CMD+Tab shows windows and switch between those, and CMD+` switches windows of active software used
 
 - ### Raycast setup:
 - Download Raycast.

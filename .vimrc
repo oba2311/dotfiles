@@ -44,6 +44,8 @@ Plugin morhetz/gruvbox
 Plug 'turbio/bracey.vim'
 Plug 'alvan/vim-closetag'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'Neotree'
+Plug 'kdheepak/lazygit.nvim'
 
 
 call plug#end()

@@ -10,6 +10,10 @@ New computer setup flow:
 
   ![Finder settings](finderSettings.png)
 
+- on Terminal enable option as Meta key:
+- ![CleanShot 2023-11-03 at 18 55 02](https://github.com/oba2311/dotfiles/assets/8249349/cac36106-bf7f-4ee0-93db-9df8c56f7b2a)
+
+
 - Completely get rid of the dock:
 
   ![Dock settings](dockSettings.png)

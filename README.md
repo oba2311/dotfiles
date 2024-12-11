@@ -1,5 +1,14 @@
 # dotfiles and settings
 
+## 2024:
+- ### tools to install
+- switchOnly - https://github.com/jacklandrin/OnlySwitch?tab=readme-ov-file
+- MonitorControl to control brightness on added screens - https://github.com/MonitorControl/MonitorControl
+- Warp - AI terminal
+- Cursor - AI IDE
+- DaVinci Resolve Studio
+- 1Password - password manager --> in transcition to Apple's builtin manager. 
+
 ## 2023:
 
 New computer setup flow:
@@ -111,9 +120,9 @@ New computer setup flow:
 13. ### Download and change theme:
 14. Figma
 15. Linear
-16. Descript
+16. ~Descript~
 17. Todoist
-18. Shift
+18. ~Shift~
 
 ### Mouse:
 

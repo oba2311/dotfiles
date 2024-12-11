@@ -1,13 +1,14 @@
 # dotfiles and settings
 
 ## 2024:
+
 - ### tools to install
 - switchOnly - https://github.com/jacklandrin/OnlySwitch?tab=readme-ov-file
 - MonitorControl to control brightness on added screens - https://github.com/MonitorControl/MonitorControl
 - Warp - AI terminal
 - Cursor - AI IDE
 - DaVinci Resolve Studio
-- 1Password - password manager --> in transcition to Apple's builtin manager. 
+- 1Password - password manager --> in transcition to Apple's builtin manager.
 
 ## 2023:
 
@@ -21,7 +22,6 @@ New computer setup flow:
 
 - on Terminal enable option as Meta key:
 - ![CleanShot 2023-11-03 at 18 55 02](https://github.com/oba2311/dotfiles/assets/8249349/cac36106-bf7f-4ee0-93db-9df8c56f7b2a)
-
 
 - Completely get rid of the dock:
 
@@ -37,7 +37,7 @@ New computer setup flow:
   ![disable the Mac's default shortcut](disableMacTerminalShortcut.png)
 - Enable repeat keys on keydown:
   ~ defaults write -g ApplePressAndHoldEnabled -bool false
-- Change Meun Bar to full date and disable showing Siri or  Spotlight:
+- Change Meun Bar to full date and disable showing Siri or Spotlight:
 
 ![menu bar settings https://capture.dropbox.com/hsCmLoXcA08xxtTO](https://uc0298fa127a4368c3b74f26909d.previews.dropboxusercontent.com/p/thumb/AB1o5tmDhWsmk2GT4Ca7DIOPs_ZM9QlrSR7lO6Lh0seSYhmrGoUPhBsBNtgfViJAR4udiekqIyDy6YVMkex1Y4CSuv6lVtkTYTTAfDjOw4Q5xbLKVLbUWFTk30I5Ri4PMSXosXwtiKm9m7GP_l_zJiNRYDRMS8G_oZl4hgE5tFr2xk3d12FluCrCbJKmvtL_rGUmujjm3hJUAJ8BP11RJTV7ydm9HfDucsrxr-6ogFLSVtmPqOJN05TcbyYoVo0st9DbbNUmn8SXtHA9c28NBNMQ4sTOBO_JIlEneTiIFA7ms9NqDockXk39XYHAl_sERSeiIluKeC8mpcmZDV_z3VTgiADNnNXa6kFRoKau1WlX5rYfltQdXBXGol0_TNlSqIKSmWlpGHxgEiwP69Fo7U2z/p.png)
 
@@ -54,7 +54,8 @@ New computer setup flow:
 - Download CleanShot.
 
 - Download alt-tab: `brew install alt-tab`
-    - make sure that CMD+Tab shows windows and switch between those, and CMD+` switches windows of active software used
+
+  - make sure that CMD+Tab shows windows and switch between those, and CMD+` switches windows of active software used
 
 - ### Raycast setup:
 - Download Raycast.
